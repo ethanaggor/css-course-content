@@ -80,3 +80,6 @@ ex. background-size: height width;
 Cover: covers the entire given space
 Contain: covers the entire given space as possible without messing with the proportion
 
+Opacity/Transparency:
+rgba: a stands for alpha and has a value from 0 to 1, 0 is 0% and 1 is 100%, it stands for the opacity of a color
+
