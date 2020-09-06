@@ -72,3 +72,11 @@ ex. rgb() & url()
 
 background, background-color, background-images
 
+Other Background Properties:
+Repeat: Repeat is the default value. No-repeat removes the property value
+
+Background-size: 
+ex. background-size: height width;
+Cover: covers the entire given space
+Contain: covers the entire given space as possible without messing with the proportion
+
