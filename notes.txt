@@ -10,14 +10,27 @@ Child selector must be applied to the CHILD and not the parent
 The anchor tag is manipulated with the :link and :visited pseudoselectors
 
 Advanced Selectors:
-Adjacent sibling selector selects the element that directly follows another
 
-General Sibling Combinator:
+- Adjacent Sibling Selector
+Selects the element that directly follows another
+
+- General Sibling Combinator
 Does exactly what the Advanced sibling selector does except they must have the same parent
 
-Child Selector:
+- Child Selector
 Selects every single DIRECT child of a parent
 
-Descendant Selector:
+- Descendant Selector
 ANY element that eventually propagates up to a parent
 
+Attribute Selectors:
+Selects HTML elements that have certain attributes
+
+FORMULA:
+[attr=value]
+    The ^ makes it so that it selects the attribute if the value STARTS with ...
+    The $ makes it so that it selects the attribute if the value ENDS with ...
+    The * makes it so that it selects the attribute if the value CONTAINS ... anywhere
+    The ~ only works for things separated by whitespace
+
+You can add multiple classes within a class attribute
