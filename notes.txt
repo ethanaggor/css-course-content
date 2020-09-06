@@ -83,3 +83,27 @@ Contain: covers the entire given space as possible without messing with the prop
 Opacity/Transparency:
 rgba: a stands for alpha and has a value from 0 to 1, 0 is 0% and 1 is 100%, it stands for the opacity of a color
 
+Gradients:
+A transition between colors where the colors diffuse into another
+
+Radial: Circular
+Background-size: cover does not work on radial gradients
+ex. background: radial-gradient(circle, red 20%, blue 40%, green 55%);
+
+Linear: Can go left to right, top to bottom, or diagonally
+ex. background: linear-gradient(to right, color, color);
+
+Other uses:
+to top
+to bottom
+to right
+to left
+diagonally:
+to bottom right
+to top left
+etc etc
+
+Angles:
+45deg
+-90deg
+etc etc
