@@ -48,3 +48,14 @@ selector {(CSS block)
     property: value;
     property2: value2;
 }
+
+Types of Colors:
+- CSS color codes, already in the programming language itself and used for quick fixes
+
+- HEX code
+Separated in pairs, the first two are red, next green, next blue
+
+- rgb
+rgb(r, g, b)
+
+Coloring Text:
