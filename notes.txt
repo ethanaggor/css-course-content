@@ -65,3 +65,10 @@ Element selectors typically go at the top of the stylesheet
 
 The property *background* also selects images and URLs
 The background property can also be applied to text
+
+Images/URL's in CSS
+CSS Functions: They take a few inputs and process an output
+ex. rgb() & url()
+
+background, background-color, background-images
+
