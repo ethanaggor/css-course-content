@@ -1,0 +1,7 @@
+Specificity:
+
+Specificity is what takes precedence over other CSS selectors & they have values from 1-1000
+
+Classes are meant to be used multiple times, ID's are meant to be used for only one thing BY CONVENTION
+
+Pseudoselectors:
