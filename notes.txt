@@ -5,3 +5,6 @@ Specificity is what takes precedence over other CSS selectors & they have values
 Classes are meant to be used multiple times, ID's are meant to be used for only one thing BY CONVENTION
 
 Pseudoselectors:
+Child selector must be applied to the CHILD and not the parent
+
+The anchor tag is manipulated with the :link and :visited pseudoselectors
