@@ -32,5 +32,8 @@ FORMULA:
     The $ makes it so that it selects the attribute if the value ENDS with ...
     The * makes it so that it selects the attribute if the value CONTAINS ... anywhere
     The ~ only works for things separated by whitespace
+    The | makes it if it includes an attribute or another
 
 You can add multiple classes within a class attribute
+
+Properties:
