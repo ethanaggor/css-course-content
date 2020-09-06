@@ -37,3 +37,14 @@ FORMULA:
 You can add multiple classes within a class attribute
 
 Properties:
+They are contained within selectors (which target the element) but the properties give it its change
+
+ex.
+property: value;
+
+The CSS General Rule:
+
+selector {(CSS block)
+    property: value;
+    property2: value2;
+}

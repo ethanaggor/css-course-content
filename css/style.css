@@ -46,6 +46,8 @@ ul li {
     color: green;
 }
 
+/* Attribute Selectors */
+
 img[src*="../img/"] {
     border: 10px solid black;
 }
