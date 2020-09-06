@@ -60,3 +60,8 @@ rgb(r, g, b)
 
 Coloring Text
 
+Background Colors:
+Element selectors typically go at the top of the stylesheet
+
+The property *background* also selects images and URLs
+The background property can also be applied to text
