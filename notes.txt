@@ -58,4 +58,5 @@ Separated in pairs, the first two are red, next green, next blue
 - rgb
 rgb(r, g, b)
 
-Coloring Text:
+Coloring Text
+
