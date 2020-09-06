@@ -8,3 +8,16 @@ Pseudoselectors:
 Child selector must be applied to the CHILD and not the parent
 
 The anchor tag is manipulated with the :link and :visited pseudoselectors
+
+Advanced Selectors:
+Adjacent sibling selector selects the element that directly follows another
+
+General Sibling Combinator:
+Does exactly what the Advanced sibling selector does except they must have the same parent
+
+Child Selector:
+Selects every single DIRECT child of a parent
+
+Descendant Selector:
+ANY element that eventually propagates up to a parent
+
