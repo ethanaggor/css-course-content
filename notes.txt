@@ -155,3 +155,8 @@ Monospace:
 All of the characters take up the same width ex. Courier New
 
 font-family: is used to define specific fonts and general font families
+
+External Fonts and Google Fonts:
+External links should be above the stylesheet
+
+https://youtu.be/1Rs2ND1ryYc?t=10158
