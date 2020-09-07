@@ -107,3 +107,20 @@ Angles:
 45deg
 -90deg
 etc etc
+
+Types of units:
+Absolute units:
+cm, mm, in
+
+Relative units:
+%'s, em, vw, vh
+
+Pixels are a little bit different, they are absolute values but are relatively scaled based on the device
+
+em represents the size relative to the standard font-size
+
+Viewport is the dimensions of what you are currently viewing
+
+Vh & Vw are view height and view width
+
+1vw is 1% of the viewport width
