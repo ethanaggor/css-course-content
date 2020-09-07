@@ -136,8 +136,22 @@ text-align: left, right, center, justify
 
 Justify stretches out as far as possible but still works left to right
 
-Font Size, Bolding (weight), and Style:
+Font Size, Weight, and Style:
 font-size
 font-weight decides the bolding of the text from 0 to typically 800 or 900 (in theory they can be as large as you want)
 font-style decides the italicizing of text
 font-style: normal, italic, oblique (makes it a little more italicized)
+
+Font Family:
+A collection of fonts that have similar features. There are three main families:
+
+Serif:
+The have small lines on the end of letters (typically used in academic settings and physical settings) ex. Times New Roman and Calibri
+
+Sans-Serif:
+They don't have those lines and are easier to read on the computer (typically used in news websites, Word and Docs, and big companies) ex. Arial and Calibri
+
+Monospace:
+All of the characters take up the same width ex. Courier New
+
+font-family: is used to define specific fonts and general font families
