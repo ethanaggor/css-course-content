@@ -135,3 +135,9 @@ text-transform: capitalize, lowercase, uppercase;
 text-align: left, right, center, justify
 
 Justify stretches out as far as possible but still works left to right
+
+Font Size, Bolding (weight), and Style:
+font-size
+font-weight decides the bolding of the text from 0 to typically 800 or 900 (in theory they can be as large as you want)
+font-style decides the italicizing of text
+font-style: normal, italic, oblique (makes it a little more italicized)
