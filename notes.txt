@@ -124,3 +124,14 @@ Viewport is the dimensions of what you are currently viewing
 Vh & Vw are view height and view width
 
 1vw is 1% of the viewport width
+
+Text Manipulation: (Looks at things you can change no matter the font)
+
+text-decoration: none, underline, line-through, overline;
+
+text-transform: capitalize, lowercase, uppercase;
+
+- text-align focuses on the justification of the text
+text-align: left, right, center, justify
+
+Justify stretches out as far as possible but still works left to right
