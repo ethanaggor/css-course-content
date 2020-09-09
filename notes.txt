@@ -164,4 +164,13 @@ Margin, Border, Padding, Content
 
 Content Size:
 The best units for height are absolute values and relative for width
-ex.
+- height
+- width
+
+CSS Borders:
+border: size style color;
+- style
+dotted
+solid
+dashed
+double
