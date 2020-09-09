@@ -159,4 +159,9 @@ font-family: is used to define specific fonts and general font families
 External Fonts and Google Fonts:
 External links should be above the stylesheet
 
-https://youtu.be/1Rs2ND1ryYc?t=10158
+The CSS Box Model:
+Margin, Border, Padding, Content
+
+Content Size:
+The best units for height are absolute values and relative for width
+ex.
