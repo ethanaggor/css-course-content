@@ -201,4 +201,15 @@ Default value and keeps the item normally
 
 Display:
 - none
-- 
+
+CSS: Flexbox
+- Allows you to arrange items easily
+- Alternative to using displays, floats, and other layout properties
+
+Two main parts:
+- The container
+A parent element in which the display type is active, usually in the form of a div
+- The items
+Flex item share child elements of the container and make up the contents of the box
+
+Creating a Flex Container:
