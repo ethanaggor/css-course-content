@@ -177,3 +177,28 @@ double
 
 Margin & Padding:
 
+Float and Display Types:
+
+Inline and Block Level Elements --
+
+Block
+- Moves everything onto its own section (block)
+
+Inline
+- Leaves objects how they naturally occur on the page
+
+inline-block:
+- Takes features from inline and block and combines them together 
+
+Float:
+-Changes how the element floats on the page
+
+-inherit
+Takes the float property of the parent element
+
+-none
+Default value and keeps the item normally
+
+Display:
+- none
+- 
